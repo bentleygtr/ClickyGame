@@ -1,0 +1,62 @@
+[
+    {
+        "cover": "1",
+        "image": "images/steve.jpg"
+    },
+    {
+        "cover": "2",
+        "image": "images/dan.jpg"
+    },
+    {
+        "cover": "3",
+        "image": "images/adam.jpg"
+    },
+    {
+        "cover": "4",
+        "image": "images/seth.jpg"
+    },
+    {
+        "cover": "5",
+        "image": "images/rob.jpg"
+    },
+    {
+        "cover": "6",
+        "image": "images/jim.jpg"
+    },
+    {
+        "cover": "7",
+        "image": "images/john.jpg"
+    },
+    {
+        "cover": "8",
+        "image": "images/mike.jpg"
+    },
+    {
+        "cover": "9",
+        "image": "images/marshall.jpg"
+    },
+    {
+        "cover": "10",
+        "image": "images/dana.jpg"
+    },
+    {
+        "cover": "11",
+        "image": "images/dave.jpg"
+    },
+    {
+        "cover": "12",
+        "image": "images/james.jpg"
+    },
+    {
+        "cover": "13",
+        "image": "images/jerry.jpg"
+    },
+    {
+        "cover": "14",
+        "image": "images/amy.jpg"
+    },
+    {
+        "cover": "15",
+        "image": "images/tom.jpg"
+    }
+]
